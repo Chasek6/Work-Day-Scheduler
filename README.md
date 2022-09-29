@@ -8,6 +8,9 @@ A simple work day scheduler application for keeping track of hourly appointment 
 # ScreenShots
 ![WDS.PNG](Assets/WDS.png)
 
+![Work Day Scheduler-1](https://user-images.githubusercontent.com/108581086/192963064-5caf65c5-3930-4ce5-ba2e-e1a6afa4a18c.png)
+
+
 
 ## Table of Contents 
 - [Work-Day-Scheduler](#work-day-scheduler)
